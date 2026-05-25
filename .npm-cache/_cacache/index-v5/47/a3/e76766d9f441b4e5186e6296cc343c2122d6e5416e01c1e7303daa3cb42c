@@ -1,0 +1,2 @@
+
+09bc13a0725c9bc5ee440ba89417012cddc6d0cf	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/alien-signals","integrity":null,"time":1779706871073,"size":"262","metadata":{"time":1779706871073,"url":"https://registry.npm.taobao.org/alien-signals","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 25 May 2026 11:01:11 GMT","location":"https://registry.npmmirror.com/alien-signals"},"options":{"compress":true},"status":301}}

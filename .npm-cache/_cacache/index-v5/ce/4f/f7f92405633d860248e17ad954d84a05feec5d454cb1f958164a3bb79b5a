@@ -1,0 +1,2 @@
+
+19e1a4cae6fb6aec9324125ddb099cdf796932d4	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/less","integrity":null,"time":1779706869672,"size":"262","metadata":{"time":1779706869672,"url":"https://registry.npm.taobao.org/less","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 25 May 2026 11:01:09 GMT","location":"https://registry.npmmirror.com/less"},"options":{"compress":true},"status":301}}

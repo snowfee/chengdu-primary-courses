@@ -1,0 +1,2 @@
+
+fe2960242d05dab330b8497de1912071975d0bc5	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@esbuild%2fopenbsd-x64","integrity":null,"time":1779706870465,"size":"262","metadata":{"time":1779706870465,"url":"https://registry.npm.taobao.org/@esbuild%2fopenbsd-x64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 25 May 2026 11:01:10 GMT","location":"https://registry.npmmirror.com/@esbuild%2fopenbsd-x64"},"options":{"compress":true},"status":301}}
