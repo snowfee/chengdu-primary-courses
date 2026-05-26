@@ -1,0 +1,220 @@
+{
+  "lessonPinyin": {
+    "s1-09": [
+      "a",
+      "o",
+      "e"
+    ],
+    "s1-10": [
+      "i",
+      "u",
+      "ü",
+      "y",
+      "w"
+    ],
+    "s1-11": [
+      "b",
+      "p",
+      "m",
+      "f"
+    ],
+    "s1-12": [
+      "d",
+      "t",
+      "n",
+      "l"
+    ],
+    "s1-13": [
+      "g",
+      "k",
+      "h"
+    ],
+    "s1-14": [
+      "j",
+      "q",
+      "x"
+    ],
+    "s1-15": [
+      "z",
+      "c",
+      "s"
+    ],
+    "s1-16": [
+      "zh",
+      "ch",
+      "sh",
+      "r"
+    ],
+    "s1-17": [
+      "ai",
+      "ei",
+      "ui"
+    ],
+    "s1-18": [
+      "ao",
+      "ou",
+      "iu"
+    ],
+    "s1-19": [
+      "ie",
+      "üe",
+      "er"
+    ],
+    "s1-20": [
+      "an",
+      "en",
+      "in",
+      "un",
+      "ün"
+    ],
+    "s1-21": [
+      "ang",
+      "eng",
+      "ing",
+      "ong"
+    ]
+  },
+  "pinyinDetails": {
+    "a": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0rechJjtkhhoTibS1rs18jdps4yicTlVQ5PcRSX09ushiaKK5DtKnPwsVricA/640?wx_fmt=gif&wxfrom=13&tp=wxpic"
+    },
+    "o": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reR41yEoJDhUzmpiclQNwGOrm4qU4FibQ2OhQ9E82cquSzPC5ibpkia4nV2A/640?wx_fmt=gif&wxfrom=13&tp=wxpic"
+    },
+    "e": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reQa3tRctqsgptO5TZ6GMzRgY5AG2EdwvEeWleILqY4AF0EvEzPI8s5w/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "i": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reWYrthgG4ibcdLl2PQIN34PF5kaibrz6DYaTCAgic38s6iafRBfBmo1BZUA/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "u": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reV5Eic8PfqyVBnTVz8YmrHDZ2ficsySdRpNaxlDkT2ADvn6jP93bSpI8w/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "ü": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reazNHtMpgFhK8ic5kHHJPtFIXTu1V9eDB5T7y6HN7W10BFKgTe4X5HEw/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "y": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reO8j1SBzvDv1WSwMRIXMo8WK42lYEupXQnUNujCcbHzicTtftZv8zdXQ/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "w": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reOpxpW5nBVslkPE2MQU9icHI1lyo977gHnRViaoicruxDbiaBvLfKLb02tg/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "b": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reSdOCCEsQazlNBico18s1fC5BMgnjOGsAlrz0PicWocdM4ic8ylficumUzg/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "p": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reuRSEca3ac0eCceI87P07sVT5cf0iclKT6mXOZ4vhv3uibkfeboylqHpA/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "m": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reNLhIoDvbXlJiaJlatSD4xO3F53hoFaxXrMjKYKW8w0ibyglGibeiazvD8Q/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "f": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0rej4SmIWoayGic3hiaXiawKTQSocXPzNicpME5SF3IyKllnribt3LXPqTRvNQ/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "d": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reaBrWQkZpz9byBHDkiaazZVbTATVcpnEialWGBI1XKLaDuH0AFKvYTcQg/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "t": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reLoLBS909m3yBEXq9N98l0jpGu86uBwR79OCPRyH6FJTo2I6Y5ZM8zQ/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "n": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reAM3biaMqcrAYcZowlDQZgkBXrt8ocpPYupZIUia2xYvSics8TYia09fOpg/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "l": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reCBHCXyweiaetFiaHDNWBdBu9zVEMccduWDKAbSYEMesFRTkkEt4UohkQ/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "g": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0re7c0IQWwp5IQOC6VYibwvAjiajPLZLnOicEicVZfOx75CwfibRmziaBtn5gwg/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "k": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reML6gq7GZA1tJKntnIyOfJznKD3t53bt2DeNWnZwVmQLsV0taGdHyibw/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "h": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reeeicR6WdYaUWAuiavvmSxTJCoaWwHuUBib3GjFhhzkQrZ2Q4T3qfhVH8Q/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "j": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reZ55pJPoJOicnKWFtTFYn0JQuzoULs4wukSUiaTPZ70qe5dyW3IyNFqLg/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "q": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0refEgATevgtLQulFiaOs30hj9ScWYapPDP56n0l18RasD2MACAgOIdHsg/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "x": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reOiabSJ4myA5W7fIR8icW9LWLWx55aMfMEdtWV06ZDlphXDEqMyUmNwjw/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "z": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0rebhB8NKtewibvAmlibMludv5fYGIgKwTbZP7iaDibaSGD57n1cqJ04aLQLw/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "c": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reQqibsmXeibDXKp4MibiaJkoI7hN3yLehEYxd1DcJFGl8YHoqeiaUiafbTeaQ/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "s": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0rekw3IINWh8tmPmhvq3wicFEcxEMqLkibnYu164cO0E0OpMxQgGYS8vorA/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "zh": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reiad1YPfdicDZPibDVicNCPsDKPXKNm3oznVzg6wR7w8e8GSNxmjZjmOpwQ/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "ch": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reBoia5NPjpWEGFicqQxWqd2cibOU95NZ3SYYIvfVSdk8JrKoib95ibxbBYLw/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "sh": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reAz3tdib3bTecznoYiaGAFvQbh3tAWtt55ALNNV3dIlpUdLvkJQ5grPDw/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "r": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0relmS2W5pKscSTMCUEZLqDzvYNQWXJAh4gHSXnMaVoklx8EKTgqZJrJg/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "ai": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reicZk950K1hqSLEDLicqb5pYydN8L8nfRXZTF41Kic4XlJnic0yFw2fDoEg/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "ei": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reibXKHmwwrhyukIrtBNBxMGzSCKzj8LDYwGicWbicwCzdaZY8mbJg1mp3g/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "ui": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reAUx9SEp1MH4prSCOlCGA7gC2CSgjuyfKaVNFh4BG2Ge4N2b6Mugjmw/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "ao": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0re71IWkQwjpKfnhRs4oQVGt6eudupogwibEeEIoGJKrMxAQPHdGGwr55g/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "ou": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0regMqUwiatLYYrm885fR4iaVibFQWbBHI8V7fnPsT9OWoIQe1icZgDMrrnhg/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "iu": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reWHicxjwQgpWQGWN46R2Y73upUTmcicpXb7jJMESTRos0HVMtn6Ls7TIA/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "ie": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0refTqVDyVUEtPP7nMDUrTBZKDErwOygImOafAGEMYvXmHYUV2BwGRtBA/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "üe": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reweIZs8Mjp8hKXdkaXY3InlRxXn7qeJjOn4VGe4kHe8iaqQtLKLbyyRw/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "er": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0ref9hpXmwuUxh9scy5SgmQ4OK9ykiawz4Sl3HDLufQ94wCeB6cQiaHl6cQ/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "an": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0rerOibuBicW2nOKN2rtlR86pJkvCA3kOt2iaYXib6ib4NYBrkibgmfiad7mvKWQ/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "en": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reZ2slCdqFO4z5a1btahrgIPP1XicWndYz8icwqy0NN5VIYORqQPuhNjEw/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "in": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reBJ1qPJG1h5ndiaXv2IgA3kbTLlxmAeLFmUXpVja3amJBGfsFuibl2q4A/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "un": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reicndsOLkRp86DLdib9o7ow3hmAxMOzsefYmlkt1QwbvhCEyrL4qqJb9g/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "ün": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0reHSsnuInULbmEpFQBfD0ia0ObqqGkBNcibk2M2cmtiaHFmfxy63J1QJEicQ/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "ang": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0rexqmBLqCM6n0RWqic047QlPV9hIQd4xjMUsOvUoczcPzCKvoVtmjicVbQ/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "eng": {
+      "strokeGifUrl": "https://mmbiz.qpic.cn/mmbiz_gif/nLPGCJrkHwjuZSZcLDOcAdmFdeIIV0re1cuNTbQ70ywzqN5ZKg3HsBwhhd4lfUgI5jWu8TGcLWdC8Y25knooUw/640?wx_fmt=gif&tp=wxpic&wxfrom=5&wx_lazy=1"
+    },
+    "ing": {
+      "strokeGifUrl": ""
+    },
+    "ong": {
+      "strokeGifUrl": ""
+    }
+  }
+}

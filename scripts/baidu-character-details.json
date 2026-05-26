@@ -1,0 +1,754 @@
+{
+  "lessonCharacters": {
+    "s1-05": "金木水火土一二三四五",
+    "s1-06": "口耳目手足",
+    "s1-07": "日月水火山石田禾",
+    "s1-08": "云雨风花鸟虫",
+    "s1-26": "远有色近听无声去还来",
+    "s1-27": "大小多少黄牛只猫边鸭苹果杏桃",
+    "s1-28": "书包尺作业本笔刀课早校",
+    "s1-29": "明力尘从众双木林森条心",
+    "s1-30": "升国旗中红歌起么美丽立",
+    "s2-01": "春冬风雪花飞入",
+    "s2-02": "姓什么双国王方",
+    "s2-03": "青清晴情请",
+    "s2-04": "字左右红时动万",
+    "s2-09": "他河说也地听哥",
+    "s2-10": "单居招呼快乐",
+    "s2-11": "玩很当音讲行许"
+  },
+  "details": {
+    "金": {
+      "character": "金",
+      "pinyin": "jīn",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b0ae4d97351c9489295eb4c155f80a999.gif"
+    },
+    "木": {
+      "character": "木",
+      "pinyin": "mù",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b8db55624486749d9a417fc0efd350699.gif"
+    },
+    "水": {
+      "character": "水",
+      "pinyin": "shuǐ",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b88a076f81e8e4d36b0b7c78519627cfa.gif"
+    },
+    "火": {
+      "character": "火",
+      "pinyin": "huǒ",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b9cc823be4d974fafb06330d246022644.gif"
+    },
+    "土": {
+      "character": "土",
+      "pinyin": "tǔ",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b86e3063e526747b3b87ea7ead8aeb34f.gif"
+    },
+    "一": {
+      "character": "一",
+      "pinyin": "yī",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bb3e43bce24154e4ea04e1887c296d7b8.gif"
+    },
+    "二": {
+      "character": "二",
+      "pinyin": "èr",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b1fcc1334d1d043a5955ad19f0c949adb.gif"
+    },
+    "三": {
+      "character": "三",
+      "pinyin": "sān",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/ba92147330f804f45980e304c4e70affc.gif"
+    },
+    "四": {
+      "character": "四",
+      "pinyin": "sì",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b7669e9b2e76643aaaf51b2810775b5ca.gif"
+    },
+    "五": {
+      "character": "五",
+      "pinyin": "wǔ",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b707c4975e10349d7a1e55a429ee37ff0.gif"
+    },
+    "口": {
+      "character": "口",
+      "pinyin": "kǒu",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b4070ad1bbc9546f28de360553fa1f367.gif"
+    },
+    "耳": {
+      "character": "耳",
+      "pinyin": "ěr",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b830aa100d9aa4ecead16b1df89c8007d.gif"
+    },
+    "目": {
+      "character": "目",
+      "pinyin": "mù",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bf38af84dc9c148fab822ddae472e115d.gif"
+    },
+    "手": {
+      "character": "手",
+      "pinyin": "shǒu",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bab8c8885adbf4abeb5da2725a87c0cf4.gif"
+    },
+    "足": {
+      "character": "足",
+      "pinyin": "zú",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b37f5648f224641c4ac5c5f0b6b5fd826.gif"
+    },
+    "日": {
+      "character": "日",
+      "pinyin": "rì",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b3df1066c58c24b1caf4903143e1da12d.gif"
+    },
+    "月": {
+      "character": "月",
+      "pinyin": "yuè",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/be2b0e1d8d00b4488af14f4f8664bc2f0.gif"
+    },
+    "山": {
+      "character": "山",
+      "pinyin": "shān",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b4ef0038042304da991f273a26da5160b.gif"
+    },
+    "石": {
+      "character": "石",
+      "pinyin": "shí",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b215404c350be4d9dbcef0f5b353f8087.gif"
+    },
+    "田": {
+      "character": "田",
+      "pinyin": "tián",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b8a1fe0c6969c4b229f08600d438880da.gif"
+    },
+    "禾": {
+      "character": "禾",
+      "pinyin": "hé",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b46121e436e014bf088d63fc4b75587ef.gif"
+    },
+    "云": {
+      "character": "云",
+      "pinyin": "yún",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bb2c76569164f43e7a608ae47ba7e9779.gif"
+    },
+    "雨": {
+      "character": "雨",
+      "pinyin": "yǔ",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b4a08ba70427711e58335c8e0eb15ce01.gif"
+    },
+    "风": {
+      "character": "风",
+      "pinyin": "fēng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b13d8702d38a446ebadaa8064984098b1.gif"
+    },
+    "花": {
+      "character": "花",
+      "pinyin": "huā",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b5018f79921da4144a6453e7987edce0b.gif"
+    },
+    "鸟": {
+      "character": "鸟",
+      "pinyin": "niǎo",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bf777eed9ba964cdab5845cf244c66e79.gif"
+    },
+    "虫": {
+      "character": "虫",
+      "pinyin": "chóng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bb1a1a86e8b744a20ba247ecfae3a9cbe.gif"
+    },
+    "远": {
+      "character": "远",
+      "pinyin": "yuǎn",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bd086ffedca314acfb9103c5819ca8eb9.gif"
+    },
+    "有": {
+      "character": "有",
+      "pinyin": "yǒu",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bcfeb05ee1eea4dfd971e4a1f0611f906.gif"
+    },
+    "色": {
+      "character": "色",
+      "pinyin": "sè",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bba80252d6f5d43df996d4e466174001b.gif"
+    },
+    "近": {
+      "character": "近",
+      "pinyin": "jìn",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b856f82e58df34e1bae4a653345fbedb5.gif"
+    },
+    "听": {
+      "character": "听",
+      "pinyin": "tīng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b437d19f045bb4691ac758ea488c97bd7.gif"
+    },
+    "无": {
+      "character": "无",
+      "pinyin": "wú",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bac4a98420b6e449f8fa8f56c2a33906b.gif"
+    },
+    "声": {
+      "character": "声",
+      "pinyin": "shēng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b6a8c1e79fee74cbda3b4b4de86d22330.gif"
+    },
+    "去": {
+      "character": "去",
+      "pinyin": "qù",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b8698e7db8e6044faae5c9a9238bffbf4.gif"
+    },
+    "还": {
+      "character": "还",
+      "pinyin": "hái",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b0102895ea9784bce9d91ec5f0e73dbfb.gif"
+    },
+    "来": {
+      "character": "来",
+      "pinyin": "lái",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b96cd1a64199c4b71ae1ebef56f5f8387.gif"
+    },
+    "大": {
+      "character": "大",
+      "pinyin": "dà",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49cdc1cc427711e5876ac8e0eb15ce01.gif"
+    },
+    "小": {
+      "character": "小",
+      "pinyin": "xiǎo",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b1dc72c759db04171a34a53f82284bbdb.gif"
+    },
+    "多": {
+      "character": "多",
+      "pinyin": "duō",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/be412b06328374adcaed0ebea0865331b.gif"
+    },
+    "少": {
+      "character": "少",
+      "pinyin": "shǎo",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49d1907a427711e5b67ac8e0eb15ce01.gif"
+    },
+    "黄": {
+      "character": "黄",
+      "pinyin": "huáng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bc72bdee07f4f4b74b64e1fd2952dadde.gif"
+    },
+    "牛": {
+      "character": "牛",
+      "pinyin": "niú",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b22108502548d479dbab406e2d7657ab2.gif"
+    },
+    "只": {
+      "character": "只",
+      "pinyin": "zhī",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49c5722e427711e5b366c8e0eb15ce01.gif"
+    },
+    "猫": {
+      "character": "猫",
+      "pinyin": "māo",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49ec3240427711e5b69bc8e0eb15ce01.gif"
+    },
+    "边": {
+      "character": "边",
+      "pinyin": "biān",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b5608d4309a4f44e68c77ebcbc4a7135f.gif"
+    },
+    "鸭": {
+      "character": "鸭",
+      "pinyin": "yā",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b52962a8baca34c458c8a1e08f64a7ed7.gif"
+    },
+    "苹": {
+      "character": "苹",
+      "pinyin": "píng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bce91847b7022469ebb1f86bd32e9da2a.gif"
+    },
+    "果": {
+      "character": "果",
+      "pinyin": "guǒ",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/baa69a4d837d04b3fa88e16ff133cc212.gif"
+    },
+    "杏": {
+      "character": "杏",
+      "pinyin": "xìng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b91a373cecc1746ffa45f9f952f9be167.gif"
+    },
+    "桃": {
+      "character": "桃",
+      "pinyin": "táo",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b45630209751c48049b82fbd1c76946d7.gif"
+    },
+    "书": {
+      "character": "书",
+      "pinyin": "shū",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b95e3e093d98b4681a6d40033ade6237e.gif"
+    },
+    "包": {
+      "character": "包",
+      "pinyin": "bāo",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b9ed64eaf87be418fa31d2d5c3a086dcc.gif"
+    },
+    "尺": {
+      "character": "尺",
+      "pinyin": "chǐ",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/be251e89610944403b142d677b1c7f85c.gif"
+    },
+    "作": {
+      "character": "作",
+      "pinyin": "zuò",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b3359b86a6ee541fcb8441302c1994136.gif"
+    },
+    "业": {
+      "character": "业",
+      "pinyin": "yè",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b931548ed54594a448f53b7d95d000bb2.gif"
+    },
+    "本": {
+      "character": "本",
+      "pinyin": "běn",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b4f684d9693ee47e996479373b07600c6.gif"
+    },
+    "笔": {
+      "character": "笔",
+      "pinyin": "bǐ",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bd14117639e284525bb110eaae38cb82d.gif"
+    },
+    "刀": {
+      "character": "刀",
+      "pinyin": "dāo",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b82be423ddd214307b14a342f76714179.gif"
+    },
+    "课": {
+      "character": "课",
+      "pinyin": "kè",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bd1f56ad5cbf247cf9f694e57689fe3db.gif"
+    },
+    "早": {
+      "character": "早",
+      "pinyin": "zǎo",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b76d3f817670943acaa44f95931edc92c.gif"
+    },
+    "校": {
+      "character": "校",
+      "pinyin": "xiào",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49e2919147711e5a6d0c8e0eb15ce01.gif"
+    },
+    "明": {
+      "character": "明",
+      "pinyin": "míng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bcde9518294bb423cbc4e4e7a51e5225a.gif"
+    },
+    "力": {
+      "character": "力",
+      "pinyin": "lì",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/befb38ae743c34613922e0e91df1eb840.gif"
+    },
+    "尘": {
+      "character": "尘",
+      "pinyin": "chén",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/be15ac45658db48d89821f23fdde78882.gif"
+    },
+    "从": {
+      "character": "从",
+      "pinyin": "cóng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b4ebf08e4479449f99268faf842622c12.gif"
+    },
+    "众": {
+      "character": "众",
+      "pinyin": "zhòng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bc1a7811c11864669a2d05f70cb2d7b76.gif"
+    },
+    "双": {
+      "character": "双",
+      "pinyin": "shuāng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/ba6d631172c43453095f89ba167d35b38.gif"
+    },
+    "林": {
+      "character": "林",
+      "pinyin": "lín",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b1534e898096541a69ce6902abeacf3f2.gif"
+    },
+    "森": {
+      "character": "森",
+      "pinyin": "sēn",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/be7146cdfc8e4400385ea55ad3997be4f.gif"
+    },
+    "条": {
+      "character": "条",
+      "pinyin": "tiáo",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bc9bc1fedc61e4f92a7fc2f66eecfbb85.gif"
+    },
+    "心": {
+      "character": "心",
+      "pinyin": "xīn",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b81f9f9d0367f4bca8f4ea1872522b9ec.gif"
+    },
+    "升": {
+      "character": "升",
+      "pinyin": "shēng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b6f48ac8bf114465b84e28062c6b90fd4.gif"
+    },
+    "国": {
+      "character": "国",
+      "pinyin": "guó",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b0f61df98ea4f4f5a9cfac0f586918c7c.gif"
+    },
+    "旗": {
+      "character": "旗",
+      "pinyin": "qí",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bd29c693da403416991e4e34b8943f1c4.gif"
+    },
+    "中": {
+      "character": "中",
+      "pinyin": "zhōng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49ba3238427711e5b450c8e0eb15ce01.gif"
+    },
+    "红": {
+      "character": "红",
+      "pinyin": "hóng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49f3e9c5427711e58530c8e0eb15ce01.gif"
+    },
+    "歌": {
+      "character": "歌",
+      "pinyin": "gē",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bd0c0c55e8dc647d7bfa2ab5476b1a879.gif"
+    },
+    "起": {
+      "character": "起",
+      "pinyin": "qǐ",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bf523c118688d48f3b6565c1698db68f5.gif"
+    },
+    "么": {
+      "character": "么",
+      "pinyin": "me",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bf30a398604af456f9c3ef151e2acbb9d.gif"
+    },
+    "美": {
+      "character": "美",
+      "pinyin": "měi",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b3e0e31040dac4496b6c6688fde9d9157.gif"
+    },
+    "丽": {
+      "character": "丽",
+      "pinyin": "lì",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49baa523427711e5ba5bc8e0eb15ce01.gif"
+    },
+    "立": {
+      "character": "立",
+      "pinyin": "lì",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b62fc1bfa95e9411480a1c36602c30ccf.gif"
+    },
+    "春": {
+      "character": "春",
+      "pinyin": "chūn",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49dfa1c5427711e593bcc8e0eb15ce01.gif"
+    },
+    "冬": {
+      "character": "冬",
+      "pinyin": "dōng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b34e1019e638d42d0938f318e96cc3f31.gif"
+    },
+    "雪": {
+      "character": "雪",
+      "pinyin": "xuě",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/baf0b83c5564b4d68973b8fa8bef56095.gif"
+    },
+    "飞": {
+      "character": "飞",
+      "pinyin": "fēi",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b676c10f2df0048a6a5188d31a2201800.gif"
+    },
+    "入": {
+      "character": "入",
+      "pinyin": "rù",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bbaf1190227ac4060b55810c5b68e0c0f.gif"
+    },
+    "姓": {
+      "character": "姓",
+      "pinyin": "xìng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b55f3ee61c6224f5a822ca85f4ce336a0.gif"
+    },
+    "什": {
+      "character": "什",
+      "pinyin": "shí",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49bba79e427711e5a496c8e0eb15ce01.gif"
+    },
+    "王": {
+      "character": "王",
+      "pinyin": "wáng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49ec7678427711e5975dc8e0eb15ce01.gif"
+    },
+    "方": {
+      "character": "方",
+      "pinyin": "fāng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b3a16ac66dea4450f86927e5f7b052f22.gif"
+    },
+    "青": {
+      "character": "青",
+      "pinyin": "qīng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b5631e542054c406d8dc7c97f72df04ef.gif"
+    },
+    "清": {
+      "character": "清",
+      "pinyin": "qīng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/ba6e107a918504c1fab03ff123fcfc8b1.gif"
+    },
+    "晴": {
+      "character": "晴",
+      "pinyin": "qíng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bf2778f5039964242b7753b416354e8b1.gif"
+    },
+    "情": {
+      "character": "情",
+      "pinyin": "qíng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b54010db76d684a08b9925cbc3dd30837.gif"
+    },
+    "请": {
+      "character": "请",
+      "pinyin": "qǐng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bb2d025474b274e199999b1bbb286808e.gif"
+    },
+    "字": {
+      "character": "字",
+      "pinyin": "zì",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/baf716cd323474f24947a9523c7085afa.gif"
+    },
+    "左": {
+      "character": "左",
+      "pinyin": "zuǒ",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b9a85a766dc8141a6a09ec2a7674ea876.gif"
+    },
+    "右": {
+      "character": "右",
+      "pinyin": "yòu",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/be9593cde99e7418ab4ce26b0aa971bbf.gif"
+    },
+    "时": {
+      "character": "时",
+      "pinyin": "shí",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bae6f06fcbc60488abb25fcf1c26dbc09.gif"
+    },
+    "动": {
+      "character": "动",
+      "pinyin": "dòng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b83255e6547df4e6f9b09b4d1417588c3.gif"
+    },
+    "万": {
+      "character": "万",
+      "pinyin": "wàn",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49b5d03a427711e584d2c8e0eb15ce01.gif"
+    },
+    "他": {
+      "character": "他",
+      "pinyin": "tā",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b0dbe31bac60542b2b1a59fff57e9ce8d.gif"
+    },
+    "河": {
+      "character": "河",
+      "pinyin": "hé",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b609d9b0100994e6893ac71bed2f80a5a.gif"
+    },
+    "说": {
+      "character": "说",
+      "pinyin": "shuō",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49ffcce3427711e5bb44c8e0eb15ce01.gif"
+    },
+    "也": {
+      "character": "也",
+      "pinyin": "yě",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b100d1891a353477395d9dd020e07f96b.gif"
+    },
+    "地": {
+      "character": "地",
+      "pinyin": "dì",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49cc261c427711e5918ac8e0eb15ce01.gif"
+    },
+    "哥": {
+      "character": "哥",
+      "pinyin": "gē",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/ba11f5e84dc64451a92250b0d6424e877.gif"
+    },
+    "单": {
+      "character": "单",
+      "pinyin": "dān",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49c374eb427711e5b331c8e0eb15ce01.gif"
+    },
+    "居": {
+      "character": "居",
+      "pinyin": "jū",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b96a27dfc23fe49bcbbc6081e127a3789.gif"
+    },
+    "招": {
+      "character": "招",
+      "pinyin": "zhāo",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b5768bdf1f2824048b65a69cfd8384981.gif"
+    },
+    "呼": {
+      "character": "呼",
+      "pinyin": "hū",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b8fbf6b69695b4c0d9971c1b5f45773a6.gif"
+    },
+    "快": {
+      "character": "快",
+      "pinyin": "kuài",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bc3060ae90fcc4cee921154cbf0696051.gif"
+    },
+    "乐": {
+      "character": "乐",
+      "pinyin": "lè",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49bac48a427711e588b6c8e0eb15ce01.gif"
+    },
+    "玩": {
+      "character": "玩",
+      "pinyin": "wán",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bb8ac5307b4024237bbbbcf4e7cf2bfc2.gif"
+    },
+    "很": {
+      "character": "很",
+      "pinyin": "hěn",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b142eaa0599a14c47b0bdfabc18178693.gif"
+    },
+    "当": {
+      "character": "当",
+      "pinyin": "dāng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49d5767d427711e58783c8e0eb15ce01.gif"
+    },
+    "音": {
+      "character": "音",
+      "pinyin": "yīn",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/bf8640ef0232d4099b3e2c92f1499662f.gif"
+    },
+    "讲": {
+      "character": "讲",
+      "pinyin": "jiǎng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b9752aa50050c4eb9b5f2b652f49236f8.gif"
+    },
+    "行": {
+      "character": "行",
+      "pinyin": "háng",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b49fc94e6427711e58937c8e0eb15ce01.gif"
+    },
+    "许": {
+      "character": "许",
+      "pinyin": "xǔ",
+      "strokes": 0,
+      "strokeGifUrl": "https://hanyu-word-gif.cdn.bcebos.com/b7f870487f4524170b9eecede5d32a399.gif"
+    }
+  }
+}
