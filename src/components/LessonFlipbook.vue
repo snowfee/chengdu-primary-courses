@@ -15,6 +15,41 @@ const currentIndex = ref(0);
 const currentCharacterIndex = ref(0);
 
 const semesterOptions: Array<'上册' | '下册'> = ['上册', '下册'];
+const textbookBaseUrl = 'https://book.pep.com.cn/1211001101241/mobile/index.html';
+const textbookPages: Record<string, number> = {
+  's1-01': 2,
+  's1-02': 6,
+  's1-03': 7,
+  's1-04': 8,
+  's1-06': 11,
+  's1-07': 13,
+  's1-08': 73,
+  's1-09': 20,
+  's1-10': 22,
+  's1-11': 24,
+  's1-12': 26,
+  's1-13': 32,
+  's1-14': 34,
+  's1-15': 36,
+  's1-16': 38,
+  's1-17': 45,
+  's1-18': 47,
+  's1-19': 49,
+  's1-20': 51,
+  's1-21': 54,
+  's1-22': 60,
+  's1-23': 84,
+  's1-24': 62,
+  's1-25': 66,
+  's1-28': 76,
+  's1-29': 74,
+  's1-30': 78,
+  's1-31': 86,
+  's1-32': 95,
+  's1-34': 99,
+  's1-38': 64,
+  's1-39': 97
+};
 
 const semesterLessons = computed(() =>
   props.lessons.filter((lesson) => lesson.semester === semester.value)
@@ -103,6 +138,15 @@ function formatStrokeOrder(strokes: readonly string[]) {
   return strokes.map((stroke, index) => `${index + 1}${stroke}`).join('  ');
 }
 
+function getTextbookPage(lesson: Lesson) {
+  return textbookPages[lesson.id];
+}
+
+function getTextbookUrl(lesson: Lesson) {
+  const page = getTextbookPage(lesson);
+  return page ? `${textbookBaseUrl}?page=${page}` : textbookBaseUrl;
+}
+
 function playPronunciation(text: string) {
   if (!('speechSynthesis' in window)) {
     return;
@@ -162,6 +206,20 @@ function playPronunciation(text: string) {
           </div>
 
           <h3>知识要点</h3>
+          <div v-if="getTextbookPage(currentLesson)" class="textbook-link-row">
+            <div>
+              <strong>官方教材</strong>
+              <span>打开后请翻到第 {{ getTextbookPage(currentLesson) }} 页</span>
+            </div>
+            <a
+              class="textbook-link"
+              :href="getTextbookUrl(currentLesson)"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              查看第 {{ getTextbookPage(currentLesson) }} 页
+            </a>
+          </div>
           <ul class="lesson-points">
             <li v-for="point in currentLesson.points" :key="point">
               {{ point }}

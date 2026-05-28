@@ -1047,14 +1047,207 @@ const pinyinSvgWritingDetails = {
       "path": "M176 208 L276 208 C273 177 249 162 224 164 C195 166 176 190 176 219 C176 247 197 266 225 266 C249 266 268 254 278 235",
       "duration": 4.6
     }
+  ],
+  "i": [
+    { "path": "M236 157 L236 264", "duration": 4.6 },
+    { "path": "M236 112 L236 113", "duration": 4.6 }
+  ],
+  "u": [
+    { "path": "M190 157 L190 229 C190 251 210 261 236 261 C260 261 278 247 286 229", "duration": 4.6 },
+    { "path": "M286 157 L286 261", "duration": 4.6 }
+  ],
+  "ü": [
+    { "path": "M190 157 L190 229 C190 251 210 261 236 261 C260 261 278 247 286 229", "duration": 5.4 },
+    { "path": "M286 157 L286 261", "duration": 5.4 },
+    { "path": "M214 134 L214 135", "duration": 5.4 },
+    { "path": "M258 134 L258 135", "duration": 5.4 }
+  ],
+  "y": [
+    { "path": "M198 157 L236 266", "duration": 4.6 },
+    { "path": "M286 157 L225 330", "duration": 4.6 }
+  ],
+  "w": [
+    { "path": "M170 157 L195 266 L225 157", "duration": 4.6 },
+    { "path": "M225 157 L255 266 L286 157", "duration": 4.6 }
+  ],
+  "b": [
+    { "path": "M190 105 L190 260", "duration": 4.6 },
+    { "path": "M190 190 C205 151 260 151 284 187 C309 225 284 266 238 266 C212 266 195 250 190 226", "duration": 4.6 }
+  ],
+  "p": [
+    { "path": "M190 151 L190 310", "duration": 4.6 },
+    { "path": "M190 190 C205 151 260 151 284 187 C309 225 284 266 238 266 C212 266 195 250 190 226", "duration": 4.6 }
+  ],
+  "m": [
+    { "path": "M170 157 L170 266", "duration": 5.2 },
+    { "path": "M170 190 C185 157 218 157 218 190 L218 266", "duration": 5.2 },
+    { "path": "M218 190 C233 157 266 157 266 190 L266 266", "duration": 5.2 }
+  ],
+  "f": [
+    { "path": "M254 95 C220 88 205 104 205 135 L205 254", "duration": 4.6 },
+    { "path": "M178 151 L255 151", "duration": 4.6 }
+  ],
+  "d": [
+    { "path": "M276 188 C267 168 248 158 226 158 C197 158 178 180 178 212 C178 244 198 264 226 264 C255 264 276 243 276 212", "duration": 4.6 },
+    { "path": "M276 105 L276 264", "duration": 4.6 }
+  ],
+  "t": [
+    { "path": "M236 105 L236 240 C236 256 247 260 259 249", "duration": 4.6 },
+    { "path": "M204 151 L268 151", "duration": 4.6 }
+  ],
+  "n": [
+    { "path": "M180 157 L180 266", "duration": 4.6 },
+    { "path": "M180 190 C195 157 255 157 255 190 L255 266", "duration": 4.6 }
+  ],
+  "l": [
+    { "path": "M236 105 L236 264", "duration": 4.6 }
+  ],
+  "g": [
+    { "path": "M268 188 C258 169 242 159 222 159 C196 159 180 181 180 212 C180 244 198 262 222 262 C250 262 268 242 268 212", "duration": 4.6 },
+    { "path": "M268 158 L268 302 C268 328 208 334 186 311", "duration": 4.6 }
+  ],
+  "k": [
+    { "path": "M195 105 L195 264", "duration": 4.6 },
+    { "path": "M258 157 L198 212 L270 262", "duration": 4.6 }
+  ],
+  "h": [
+    { "path": "M180 105 L180 266", "duration": 4.6 },
+    { "path": "M180 190 C195 157 255 157 255 190 L255 266", "duration": 4.6 }
+  ],
+  "j": [
+    { "path": "M236 162 L236 307 C236 330 197 330 185 314", "duration": 4.6 },
+    { "path": "M236 112 L236 113", "duration": 4.6 }
+  ],
+  "q": [
+    { "path": "M286 187 C276 168 258 157 236 157 C206 157 184 179 184 211 C184 244 207 265 236 265 C265 265 286 244 286 211", "duration": 4.6 },
+    { "path": "M286 157 L286 330", "duration": 4.6 }
+  ],
+  "x": [
+    { "path": "M205 157 L271 266", "duration": 4.6 },
+    { "path": "M271 157 L205 266", "duration": 4.6 }
+  ],
+  "z": [
+    { "path": "M195 157 L275 157 L195 266 L275 266", "duration": 4.6 }
+  ],
+  "c": [
+    { "path": "M268 184 C252 163 218 162 198 185 C176 210 181 249 210 260 C236 270 258 256 270 238", "duration": 4.6 }
+  ],
+  "s": [
+    { "path": "M270 180 C252 156 207 158 196 185 C186 211 258 209 260 236 C262 265 209 274 190 249", "duration": 4.6 }
+  ],
+  "r": [
+    { "path": "M190 157 L190 266", "duration": 4.6 },
+    { "path": "M190 190 C202 164 228 160 246 174", "duration": 4.6 }
   ]
 } as const;
+
+type PinyinSvgSymbol = keyof typeof pinyinSvgWritingDetails;
+type PinyinSvgStrokeDetail = typeof pinyinSvgWritingDetails[PinyinSvgSymbol][number];
+
+const pinyinCompoundLetters = {
+  "zh": ["z", "h"],
+  "ch": ["c", "h"],
+  "sh": ["s", "h"],
+  "ai": ["a", "i"],
+  "ei": ["e", "i"],
+  "ui": ["u", "i"],
+  "ao": ["a", "o"],
+  "ou": ["o", "u"],
+  "iu": ["i", "u"],
+  "ie": ["i", "e"],
+  "üe": ["ü", "e"],
+  "er": ["e", "r"],
+  "an": ["a", "n"],
+  "en": ["e", "n"],
+  "in": ["i", "n"],
+  "un": ["u", "n"],
+  "ün": ["ü", "n"],
+  "ang": ["a", "n", "g"],
+  "eng": ["e", "n", "g"],
+  "ing": ["i", "n", "g"],
+  "ong": ["o", "n", "g"]
+} as const;
+
+const pathCommandPattern = /([MLC])([^MLC]*)/g;
+const pathNumberPattern = /-?\d+(?:\.\d+)?/g;
+const compoundPinyinGap = 26;
+
+function getPinyinGlyphBounds(letter: PinyinSvgSymbol) {
+  const xs = pinyinSvgWritingDetails[letter].flatMap((stroke) => {
+    const numbers = stroke.path.match(pathNumberPattern)?.map(Number) ?? [];
+    return numbers.filter((_, index) => index % 2 === 0);
+  });
+  const minX = Math.min(...xs);
+  const maxX = Math.max(...xs);
+  const visualPadding = letter === "i" ? 10 : 0;
+
+  return {
+    minX: minX - visualPadding,
+    maxX: maxX + visualPadding,
+    width: maxX - minX + visualPadding * 2
+  };
+}
+
+function translatePinyinPath(path: string, offsetX: number) {
+  return path.replace(pathCommandPattern, (segment, command: string, values: string) => {
+    let numberIndex = 0;
+    const translatedValues = values.replace(pathNumberPattern, (value) => {
+      const numberValue = Number(value);
+      const translatedValue = numberIndex % 2 === 0 ? numberValue + offsetX : numberValue;
+      numberIndex += 1;
+      return Number.isInteger(translatedValue)
+        ? String(translatedValue)
+        : translatedValue.toFixed(2).replace(/\.?0+$/, "");
+    });
+
+    return `${command}${translatedValues}`;
+  });
+}
+
+function createCompoundPinyinSvg(symbol: string) {
+  const letters = pinyinCompoundLetters[symbol as keyof typeof pinyinCompoundLetters];
+
+  if (!letters) {
+    return undefined;
+  }
+
+  const glyphs = letters.map((letter) => ({
+    letter: letter as PinyinSvgSymbol,
+    bounds: getPinyinGlyphBounds(letter as PinyinSvgSymbol)
+  }));
+  const totalWidth =
+    glyphs.reduce((sum, glyph) => sum + glyph.bounds.width, 0) +
+    compoundPinyinGap * (glyphs.length - 1);
+  let cursor = Math.round((459 - totalWidth) / 2);
+  let strokeIndex = 0;
+  const duration = Math.max(5.6, letters.length * 2.2);
+
+  return glyphs.flatMap(({ letter, bounds }) => {
+    const strokes = pinyinSvgWritingDetails[letter];
+    const offsetX = cursor - bounds.minX;
+    cursor += bounds.width + compoundPinyinGap;
+
+    return strokes.map((stroke: PinyinSvgStrokeDetail) => {
+      const compoundStroke = {
+        ...stroke,
+        path: translatePinyinPath(stroke.path, offsetX),
+        delay: strokeIndex * 0.62,
+        duration
+      };
+      strokeIndex += 1;
+      return compoundStroke;
+    });
+  });
+}
 
 function createPinyinCharacters(
   lessonId: keyof typeof pinyinCharacterSets
 ): LessonCharacter[] {
   return pinyinCharacterSets[lessonId].map((symbol) => {
     const detail = pinyinWritingDetails[symbol];
+    const pinyinSvg =
+      pinyinSvgWritingDetails[symbol as keyof typeof pinyinSvgWritingDetails] ??
+      createCompoundPinyinSvg(symbol);
 
     return {
       character: symbol,
@@ -1064,7 +1257,7 @@ function createPinyinCharacters(
       sentence: `我会写拼音“${symbol}”。`,
       voiceText: symbol,
       strokeGifUrl: detail.strokeGifUrl || undefined,
-      pinyinSvg: pinyinSvgWritingDetails[symbol as keyof typeof pinyinSvgWritingDetails]
+      pinyinSvg
     };
   });
 }

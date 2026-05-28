@@ -335,6 +335,59 @@ button {
   font-size: 24px;
 }
 
+.textbook-link-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin: -4px 0 18px;
+  padding: 14px 16px;
+  border: 1px solid rgba(217, 104, 63, 0.18);
+  border-radius: 14px;
+  background: rgba(244, 197, 111, 0.16);
+  color: #607081;
+  font-size: 14px;
+}
+
+.textbook-link-row strong {
+  display: block;
+  margin-bottom: 4px;
+  color: #8f3b1f;
+  font-size: 16px;
+}
+
+.textbook-link-row span {
+  display: block;
+  line-height: 1.5;
+}
+
+.textbook-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
+  flex: 0 0 auto;
+  padding: 10px 18px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #d9683f, #e59f55);
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+  box-shadow: 0 12px 24px rgba(217, 104, 63, 0.24);
+  transition: 0.2s ease;
+}
+
+.textbook-link::after {
+  content: "↗";
+  margin-left: 8px;
+  font-size: 14px;
+}
+
+.textbook-link:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 16px 28px rgba(217, 104, 63, 0.3);
+}
+
 .lesson-points {
   margin: 0;
   padding-left: 22px;
@@ -506,62 +559,66 @@ button {
   stroke-linejoin: var(--stroke-linejoin, round);
   stroke-dasharray: 1;
   stroke-dashoffset: 1;
+  opacity: 0;
   animation-duration: var(--stroke-duration, 4.2s);
   animation-iteration-count: infinite;
   animation-timing-function: linear;
 }
 
-.pinyin-stroke-1 {
-  animation-name: pinyin-write-first;
+.pinyin-stroke-1 { animation-name: pinyin-write-1; }
+.pinyin-stroke-2 { animation-name: pinyin-write-2; }
+.pinyin-stroke-3 { animation-name: pinyin-write-3; }
+.pinyin-stroke-4 { animation-name: pinyin-write-4; }
+.pinyin-stroke-5 { animation-name: pinyin-write-5; }
+.pinyin-stroke-6 { animation-name: pinyin-write-6; }
+.pinyin-stroke-7 { animation-name: pinyin-write-7; }
+.pinyin-stroke-8 { animation-name: pinyin-write-8; }
+
+@keyframes pinyin-write-1 {
+  0%, 4% { stroke-dashoffset: 1; opacity: 1; }
+  30%, 100% { stroke-dashoffset: 0; opacity: 1; }
 }
 
-.pinyin-stroke-2 {
-  animation-name: pinyin-write-second;
+@keyframes pinyin-write-2 {
+  0%, 28% { stroke-dashoffset: 1; opacity: 0; }
+  29% { stroke-dashoffset: 1; opacity: 1; }
+  45%, 100% { stroke-dashoffset: 0; opacity: 1; }
 }
 
-@keyframes pinyin-write-first {
-  0%,
-  4% {
-    stroke-dashoffset: 1;
-    opacity: 1;
-  }
-
-  42%,
-  86% {
-    stroke-dashoffset: 0;
-    opacity: 1;
-  }
-
-  94%,
-  100% {
-    stroke-dashoffset: 1;
-    opacity: 1;
-  }
+@keyframes pinyin-write-3 {
+  0%, 43% { stroke-dashoffset: 1; opacity: 0; }
+  44% { stroke-dashoffset: 1; opacity: 1; }
+  58%, 100% { stroke-dashoffset: 0; opacity: 1; }
 }
 
-@keyframes pinyin-write-second {
-  0%,
-  39% {
-    stroke-dashoffset: 1;
-    opacity: 0;
-  }
+@keyframes pinyin-write-4 {
+  0%, 56% { stroke-dashoffset: 1; opacity: 0; }
+  57% { stroke-dashoffset: 1; opacity: 1; }
+  70%, 100% { stroke-dashoffset: 0; opacity: 1; }
+}
 
-  40% {
-    stroke-dashoffset: 1;
-    opacity: 1;
-  }
+@keyframes pinyin-write-5 {
+  0%, 68% { stroke-dashoffset: 1; opacity: 0; }
+  69% { stroke-dashoffset: 1; opacity: 1; }
+  80%, 100% { stroke-dashoffset: 0; opacity: 1; }
+}
 
-  68%,
-  86% {
-    stroke-dashoffset: 0;
-    opacity: 1;
-  }
+@keyframes pinyin-write-6 {
+  0%, 78% { stroke-dashoffset: 1; opacity: 0; }
+  79% { stroke-dashoffset: 1; opacity: 1; }
+  88%, 100% { stroke-dashoffset: 0; opacity: 1; }
+}
 
-  94%,
-  100% {
-    stroke-dashoffset: 1;
-    opacity: 1;
-  }
+@keyframes pinyin-write-7 {
+  0%, 86% { stroke-dashoffset: 1; opacity: 0; }
+  87% { stroke-dashoffset: 1; opacity: 1; }
+  94%, 100% { stroke-dashoffset: 0; opacity: 1; }
+}
+
+@keyframes pinyin-write-8 {
+  0%, 92% { stroke-dashoffset: 1; opacity: 0; }
+  93% { stroke-dashoffset: 1; opacity: 1; }
+  98%, 100% { stroke-dashoffset: 0; opacity: 1; }
 }
 
 .character-card.featured .stroke-gif-image {
@@ -704,9 +761,14 @@ button {
 @media (max-width: 920px) {
   .topbar,
   .toolbar-card,
-  .flipbook-header {
+  .flipbook-header,
+  .textbook-link-row {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .textbook-link {
+    width: 100%;
   }
 
   .subject-grid {
